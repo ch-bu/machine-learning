@@ -10,7 +10,7 @@ The project rubric can be found [here](https://review.udacity.com/#!/rubrics/103
 
 After getting a first glimpse into Numpy, pandas and matplotlib in the [Titanic Survival Exploration Project](https://github.com/ch-bu/udacity_titanic-survival-exploration) I try to improve my skills in these libraries. My goal is to get acquainted with different supervised learning algorithms in a real project. I haven't masterered the concepts of variance and bias down cold yet. This project should improve my knowledge about it. 
 
-### Run
+## Run
 
 Run one of the following commands:
 
