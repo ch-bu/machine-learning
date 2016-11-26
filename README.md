@@ -8,7 +8,9 @@ The project rubric can be found [here](https://review.udacity.com/#!/rubrics/103
 
 ## My goal
 
-After getting a first glimpse into Numpy, pandas and matplotlib in the [Titanic Survival Exploration Project](https://github.com/ch-bu/udacity_titanic-survival-exploration) I try to improve my skills in these libraries. My goal is to get acquainted with different supervised learning algorithms in a real project. I haven't masterered the concepts of variance and bias down cold yet. This project should improve my knowledge about it. 
+After getting a first glimpse into numpy, pandas and matplotlib in the [Titanic Survival Exploration Project](https://github.com/ch-bu/udacity_titanic-survival-exploration) I try to improve solve another little machine learnig problem. My goal is to get acquainted with another supervised learning algorithms in a real project. I haven't mastered the concepts of variance and bias and cross-validation down cold yet. I want to fresh up on that.
+
+The final project can be found [here](http://ch-bu.github.io/udacity/boston_housing.html).
 
 ## Run
 
